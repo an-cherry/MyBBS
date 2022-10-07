@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+}
+
+p {
+  margin: 0;
+  display: inline-block;
+  vertical-align: top;
+}
+
+div {
+  padding-bottom: 10px;
+}
+
+.posts {
+  border: 1px solid lightblue;
+  border-radius: 10px;
+  background-color: lightcyan;
+  margin: 10px;
+  padding: 10px;
+}
+
+.list {
+  border: 1px solid lightblue;
+  border-radius: 10px;
+  background-color: lightcyan;
+  margin: 10px;
+  padding: 10px;
+}
